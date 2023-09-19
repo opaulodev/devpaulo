@@ -1,6 +1,6 @@
 ### Ola, eu sou o Paulo Santana 👋
 
-
+[![Paulo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=opaulodev&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-santana-7518925a)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_psantanaa_)
